@@ -173,6 +173,7 @@ Faster Whisper uses 50% less GPU memory than Whisper.
 | Quantization Support | Limited | Strong | Limited |
 
 
+
 **6\. Final Recommendation**
 
 **Selected Model: Faster Whisper**
