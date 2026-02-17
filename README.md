@@ -81,7 +81,7 @@ Additional Metrics:
 
 
 
-###  Inference Time
+###  Total Runtime
 
 | Model | Total Runtime |
 |--------|---------------|
