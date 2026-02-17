@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+jiwer
+whisper
+faster-whisper
+ctranslate2
+matplotlib
+numpy
