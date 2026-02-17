@@ -89,7 +89,7 @@ Additional Metrics:
 | Faster Whisper | 12.5 minutes |
 | Wav2Vec2 | 14 minutes |
 
-![GPU Memory](results/gpu_memory.png)
+![Inference Time](results/inference_time.png)
 
  Faster Whisper achieved the lowest runtime.
 
