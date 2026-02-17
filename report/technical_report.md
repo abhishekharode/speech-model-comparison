@@ -173,13 +173,13 @@ Faster Whisper uses 50% less GPU memory than Whisper.
 | Quantization Support | Limited | Strong | Limited |
 
 
-![GPU Memory](results/gpu_memory.png)
+![GPU Memory](speech-model-comparison/results/gpu_memory.png)
 
-![Inference Time](results/inference_time.png)
+![Inference Time](speech-model-comparison/results/inference_time.png)
 
-![WER vs SNR](results/wer_vs_snr.png)
+![WER vs SNR](speech-model-comparison/results/wer_vs_snr.png)
 
-![Full Execution Time](results/Full_execution_time.png)
+![Full Execution Time](speech-model-comparison/results/Full_execution_time.png)
 
 **6\. Final Recommendation**
 
