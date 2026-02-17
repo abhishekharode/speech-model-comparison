@@ -141,7 +141,8 @@ speech-model-comparison/
 │   └── technical_report.md
 │
 ├── results/
-│   ├── wer_vs_snr.png
+│   ├──Full_execution_time.png  
+│   ├── wer_vs_snr.png  
 │   ├── gpu_memory.png
 │   └── inference_time.png
 │
