@@ -91,6 +91,8 @@ Additional Metrics:
 
 ![Inference Time](results/inference_time.png)
 
+![Full execution time](results/Full execution time.png)
+
  Faster Whisper achieved the lowest runtime.
 
 
